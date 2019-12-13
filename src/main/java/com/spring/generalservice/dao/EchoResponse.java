@@ -1,4 +1,4 @@
-package com.spring.generalrestservice.dao;
+package com.spring.generalservice.dao;
 
 public class EchoResponse {
     public Boolean authenticated;
