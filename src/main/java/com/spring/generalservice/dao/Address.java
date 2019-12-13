@@ -1,4 +1,4 @@
-package com.spring.generalservice.dao;
+package com.spring.generalrestservice.dao;
 
 public class Address {
     String employeeId;
