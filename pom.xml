@@ -11,8 +11,8 @@
         heroku
     </groupId>
     <artifactId>
-        general-service
-    </artifactId>
+general-rest-service
+        </artifactId>
     <version>
         1.0-SNAPSHOT
     </version>
