@@ -2,7 +2,7 @@ Testing echo:
 
 Method: Post 
 
-URL   : https://general-service-dev.herokuapp.com/echo
+URL   : https://general-rest-service.herokuapp.com/echo
 
 Payload:
  
@@ -13,7 +13,7 @@ Testing echoSecure:
 
 Method: Post 
 
-URL   : https://general-service-dev.herokuapp.com/echoSecure
+URL   : https://general-rest-service.herokuapp.com/echoSecure
 
 Authentication : Basic Auth, username : testU, password: testP
 
@@ -26,7 +26,7 @@ Testing pureEcho:
 
 Method: Put/Get/Post/Delete 
 
-URL   : https://general-service-dev.herokuapp.com/pureEcho?myparam=123
+URL   : https://general-rest-service.herokuapp.com/pureEcho?myparam=123
 
 Payload:
 {
@@ -36,7 +36,7 @@ HR Service : employees
 
 Method: Get
 
-URL : https://general-service-dev.herokuapp.com/hr/employees
+URL : https://general-rest-service.herokuapp.com/hr/employees
 
 Response : 
 [
@@ -81,7 +81,7 @@ HR Service : employees
 
 Method: Get
 
-URL : https://general-service-dev.herokuapp.com/hr/employee/Name/Chintan
+URL : https://general-rest-service.herokuapp.com/hr/employee/Name/Chintan
 
 Response : 
 [
