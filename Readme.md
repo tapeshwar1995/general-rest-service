@@ -76,19 +76,4 @@ Response :
         DisplayUrl: "https://external.com/E-006",
         EmployeeAccountKey: "Account-002"
     }
-]    
-HR Service : employees
-
-Method: Get
-
-URL : https://general-rest-service.herokuapp.com/hr/employee/Name/Chintan
-
-Response : 
-[
-    {
-        ExternalId: "E-001",
-        Name: "Chintan Shah",
-        DisplayUrl: "https://external.com/E-001",
-        EmployeeAccountKey: "Account-001"
-    }
 ]
